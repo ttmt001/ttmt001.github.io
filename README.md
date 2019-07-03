@@ -1,3 +1,3 @@
-# ttmt001.github.io
+# Academic website
 
 [Homepage](https://ttmt001.github.io)
