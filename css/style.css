@@ -20,7 +20,7 @@ h1{
 
 h2 {
   font-family: Helvetica,Open Sans,Tahoma,Arial,Verdana,sans-serif;
-  font-size: 18pt;
+  font-size: 20pt;
   font-weight: 600;
   /* color: rgb(72, 57, 130); */
 }
@@ -35,7 +35,7 @@ h3 {
 .simple{
   padding: 20px 15px;
   text-align: left;
-  max-width: 80%;
+  max-width: 70%;
   word-wrap: break-word;
 }
 
