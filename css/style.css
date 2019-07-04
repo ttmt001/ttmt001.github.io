@@ -35,6 +35,8 @@ h3 {
 .simple{
   padding: 20px 15px;
   text-align: left;
+  max-width: 80%;
+  word-wrap: break-word;
 }
 
 a {
